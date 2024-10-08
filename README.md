@@ -1,4 +1,4 @@
-# 51
+
 ## main.c
 ```
 #include <regx52.h>
